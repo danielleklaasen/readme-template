@@ -46,8 +46,8 @@ Give an example
 ## Authors
 
 * **Danielle Klaasen** - *Initial front-end work*
-* **Felix Klein** - *Initial back-end work*
-* **David Clarissa** - *Project management and back-end work*
+* **...** - *Initial back-end work*
+* **...** - *Project management and back-end work*
 
 good examples: https://github.com/matiassingers/awesome-readme
 https://github.com/noffle/art-of-readme
